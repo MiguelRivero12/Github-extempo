@@ -31,4 +31,21 @@ del . – deletes all files
 
 help makes useful commands appear
 
+git diff compares two files
+
+nano name.extension creates a named name with the specified extension and then write things inside the file ctrl Or siverve to wait for the text you have inside the file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
