@@ -33,9 +33,13 @@ help makes useful commands appear
 
 git diff compares two files
 
-nano name.extension creates a named name with the specified extension and then write things inside the file ctrl Or siverve to wait for the text you have inside the file
+nano name.extension creates a file with a file name with the extension you put in and you can write inside the file 
 
+ctrl O is used to wait for the text you have inside the file
 
+ctrl x is used for after writing and saving the file out of the file
+
+git state gives you the status of the computer
 
 
 
