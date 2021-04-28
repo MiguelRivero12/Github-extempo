@@ -20,3 +20,15 @@ d: Allows you to change the unit
 dir lets you know which directory they're in
 
 copy location-newname.extension allows you to copy files from one location to another, and you can change the extension
+
+xcopy /s /i d:\foldername c:\otherfolder would copy the file using /s to copy all subfiles that have content
+
+del*.extension – deletes all files with the extension
+
+del example*.* – deletes all files beginning with example
+
+del . – deletes all files
+
+help makes useful commands appear
+
+
