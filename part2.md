@@ -26,19 +26,24 @@
 
 `git remote -v` lets you see the remotes that are associated
 
-`git checkout -b` branchname switches to a branch
-
-`git branch -d` example is used to delete the branch example
-
 `git mergetool` is used as a graphic tool so see merging problems and resolve them
 
 `git commit` would let you finally commit the merge
 
+### Git flow
 `git flow init` initiates gitflow
 
 `git flow feature start` feature/example creates a new feature
 
 `git flow feature pull origin` feature/example is used to obtain a feature branch from the remote repository
 
-
+### Branches
+| Command | Useness |
+| ------ | ------ |
+```git branch *name*``` | With this command you create a branch where you can work in parallel.
+```git checkout *name*```| Change branch
+```git checkout -b``` | Create and change to another branch
+```git merge *name*``` | Fusion branches and make a commit
+```git branch -d *name*``` | Delete the branch
+```git branch --contains *commit*``` | This command is for seeing in which commit that branch stayed.
 
